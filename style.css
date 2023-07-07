@@ -25,6 +25,7 @@ body {
 .equation {
   text-align: end;
   font-size: 1.125em;
+  height: 20px;
 }
 
 .result {
